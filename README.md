@@ -1,4 +1,4 @@
-# DCT-Based AI Image Detector
+# Slopper - DCT Based AI Image Detector
 
 This project is not vibecoded.
 
