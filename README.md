@@ -43,14 +43,14 @@ main.py         image loading, block splitting
 
 ## Results
 
-Tested on personal photos and images from Midjourney, DALL-E, and Stable Diffusion. Correctly classified standard AI generators. Struggled with photorealistic models like Nanbana2 which are specifically trained to match natural image statistics. This is an open problem in the field.
+Tested on personal photos and images from Midjourney, DALL-E, and Stable Diffusion. Correctly classified standard AI generators. Struggled with photorealistic models like Nanobanana  which are specifically trained to match natural image statistics. This is an open problem in the field.
 
 | Image | HFR | Slope | Flatness | Spike | Score | Verdict |
 |---|---|---|---|---|---|---|
-| Rubik's cube (real) | 0.174 | -3.48 | 0.40 | 0.39 | 55.2 | REAL |
-| Krishna idol (real) | 0.076 | -4.19 | 0.37 | 0.31 | 61.5 | REAL |
+|Real 1 | 0.174 | -3.48 | 0.40 | 0.39 | 55.2 | REAL |
+| Real 2 | 0.076 | -4.19 | 0.37 | 0.31 | 61.5 | REAL |
 | Midjourney image | 0.083 | -3.04 | 0.73 | 0.31 | 35.8 | AI |
-| Nanbana2 image | 0.058 | -4.82 | 0.23 | 0.21 | 77.3 | WRONG |
+| Nanobanana image | 0.058 | -4.82 | 0.23 | 0.21 | 77.3 | WRONG |
 
 ## Limitations
 
