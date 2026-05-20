@@ -1,0 +1,13 @@
+```
+__pycache__/
+*.pyc
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.JPG
+*.JPEG
+*.PNG
+```
